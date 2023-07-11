@@ -1,7 +1,7 @@
 {
-  "throwBananaNum": 30,
-  "throwAndLike": 1,
-  "throwAndDanmu": 1,
+  "throwBananaNum": 0,
+  "throwAndLike": 0,
+  "throwAndDanmu": 0,
   "isLike": 1,
   "isDanmu": 1,
   "danmuPriority": 0,
